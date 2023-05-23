@@ -10,7 +10,7 @@ Bu repo [kodluyoruz](https://academy.patika.dev/courses/git/odev1) Front-end Eğ
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelcek)
 
 ```
-https://github.com/MonclerD/kodluyoruzilkrepo.git
+https://github.com/Buraktinazzz/kodluyoruzilkrepo.git
 ```
 
 **Usage**
